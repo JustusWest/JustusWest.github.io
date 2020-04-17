@@ -46,6 +46,13 @@ redirect_from:
     - Firebase
   - React + React Native
 
+# Relevant Courses
+
+- CMSI 485 + 486 - Introduction to Artificial Intelligence + Cognitive Systems Design with Dr. Andrew Forney
+  - Explored topics in artificial intelligence such as Reinforcement Learning, Neural Networks, Causal Inference with a special focus on causality, Bayesian Networks, and Structural Causal Modeling
+- PYSC 4001 - Cognitive Neuroscience
+  - Introductory neuroscience course exploring neuropsychology, psychopathology, cognitive development and intelligence
+
 # Service and leadership
 
 - Lieutenant Lifeguard, Monmouth County Park System (Summer 2015 - 2019)
