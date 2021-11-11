@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Michael West"
 title_separator: "-"
 name: &name "Michael West"
-description: &description "Research Assisstant at Loyola Marymount University"
+description: &description "PhD Student at Temple University"
 url: https://justuswest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "justuswest.github.io"
@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Michael West"
   avatar: "MichaelWestBioPic.jpg"
-  bio: "Graduating from Loyola Marymount University, Spring 2020 with a double major in Computer Science and Psychology"
-  location: "Los Angeles, California"
+  bio: "PhD Student in CIS, Temple University"
+  location: "Philadelphia, PA"
   employer:
   pubmed:
   googlescholar:
-  email: "mwest12@lion.lmu.edu"
+  email: "tuo95818@temple.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
