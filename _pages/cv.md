@@ -11,11 +11,17 @@ redirect_from:
 
 # Education
 
-- B.S. in Computer Science and Psychology, Loyola Marymount University, 2020 (expected)
+- PhD Student, Temple University
+
+- B.S. in Computer Science and Psychology, Loyola Marymount University, 2020
 
 # Work experience
+- Fall 2021 - Present: PhD Student and Research Assistant, Temple University
+  - Advisor: Eduard Dragut 
 
-- Fall 2018 - Present: Research Assistant, HeadsUp! Lab
+- Fall 2020 - Spring 2021: Physics and Engineering Teacher, Saint John Vianney High School
+
+- Fall 2018 - Fall 2021: Research Assistant, HeadsUp! Lab
 
   - Loyola Marymount University
   - Duties included: Developed software to assist in a variety of projects researching alcohol use.
@@ -23,7 +29,7 @@ redirect_from:
     - CampusGANDR: Managed a team of seven undergraduates in the development of a React Native app, for use in an NIH R01 funded grant.
   - Supervisor: Dr. Joseph LaBrie
 
-- Summer 2019: Summer Pportunities for Advanced Research
+- Summer 2019: Summer Opportunities for Advanced Research
 
   - Loyola Marymount University
   - Duties included: A personal research project utilizing Reinforcement Learning agents in the Iterated Prisoner's Dilemma
