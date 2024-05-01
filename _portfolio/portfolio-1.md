@@ -1,6 +1,6 @@
 ---
-title: "CampusGANDR: Social Comparisons Made Grander"
-excerpt: "The CampusGANDR mobile application is being developed for the HeadsUp! Lab in the Psychology department. The purpose of the application is to provide Personalized Normative Feedback (PNF) regarding risky drinking behavior, in a gamified format. The game will provide college students the facts when it comes to college stereotypes/norms. These results will be presented in a game like fashion so users can learn along with fellow classmates, discover more aspects of campus life and interact with their peers in a friendly environment.<br/><img src='/images/CampusGandr.jpg'>"
+title: "Applying Data Science to Increase Accessibility of Higher Education for Autistic Students"
+excerpt: "In this paper (Forthcoming July 2024), I automated a search, retrieval and classification pipeline to discover which colleges in the US host specialized Autism Support Programs (ASPs). After discovering 49 ASPs which were not previously reported in the literature, our research team reviewed the programs' web pages to create the most comprehensive accounting of ASPs to date. In ongoing work, I aim to improve this pipeline by reframing it as a focused crawling problem and making improvements to state of the art focused crawlers. In future work, we will added Information Retrieval to automate the process of extracting program information from the webpages."
 collection: portfolio
 ---
 
