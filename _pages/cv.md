@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-- PhD Student, Temple University
+- PhD Student, Temple University - Expected Graduation Spring 2026
 
 - B.S. in Computer Science and Psychology, Loyola Marymount University, 2020
 
@@ -54,6 +54,12 @@ redirect_from:
   - React + React Native
 
 # Service and leadership
+
+- President, College of Science and Technology Graduate Student Organization - (Summer 2023 - Present)
+  - As President of the CST-GSO I organize social, networking and professional development events for fellow graduate students, manage communications between the executive board and members, and manage the organizations affiliation and status with the university.
+
+- Graduate Student Representative, Dean's Advisory Comittee - (Fall 2023 - Present)
+  - I serve as the representative for graduate students on the comittee to advise Dean Miguel Mostafa. I provide input on college affairs and bring any concerns from fellow students to the Dean's attention.
 
 - Lieutenant Lifeguard, Monmouth County Park System (Summer 2015 - 2019)
   - Managed lifeguard stand at a popular beach in Monmouth County, New Jersey
