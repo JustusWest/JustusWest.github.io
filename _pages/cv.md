@@ -26,7 +26,7 @@ redirect_from:
   - Loyola Marymount University
   - Duties included: Developed software to assist in a variety of projects researching alcohol use.
     - Utilized the Google Cloud Platform to develop cloud based machine vision tools for image analysis.
-    - CampusGANDR: Managed a team of seven undergraduates in the development of a React Native app, for use in an NIH R01 funded grant.
+    - CampusGANDR: Managed a team of seven undergraduates in the development of a React Native app, for use in NIH funded research. Deployed and managed the app on iOS and Andriod for two cohorts of research subjects, totaling over 1200 users.
   - Supervisor: Dr. Joseph LaBrie
 
 - Summer 2019: Summer Opportunities for Advanced Research
@@ -45,19 +45,13 @@ redirect_from:
   - C++
   - C
 - Experience with the following technologies:
+  - BERT, doc2vec and GPT3.5
   - PyTorch
   - Google Cloud Platform
     - AutoML
     - Cloud Vision
     - Firebase
   - React + React Native
-
-# Relevant Courses
-
-- CMSI 485 + 486 - Introduction to Artificial Intelligence + Cognitive Systems Design with Dr. Andrew Forney
-  - Explored topics in artificial intelligence such as Reinforcement Learning, Neural Networks, Causal Inference with a special focus on causality, Bayesian Networks, and Structural Causal Modeling
-- PYSC 4001 - Cognitive Neuroscience
-  - Introductory neuroscience course exploring neuropsychology, psychopathology, cognitive development and intelligence
 
 # Service and leadership
 
